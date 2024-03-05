@@ -63,6 +63,10 @@ button{
     outline-color: burlywood;
 }
 
+button:hover{
+    cursor: pointer;
+}
+
 #output{
     margin-top: 50px;
     font-size: 30px;
